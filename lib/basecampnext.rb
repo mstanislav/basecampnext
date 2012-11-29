@@ -49,7 +49,7 @@ private
     if response.code == 200
       JSON.parse(response.body)
     else
-      raise Exception, response
+      return false
     end
   end
 

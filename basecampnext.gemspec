@@ -1,8 +1,8 @@
 Gem::Specification.new do |s|
   s.name            = 'basecampnext'
-  s.version         = '0.0.3'
+  s.version         = '0.0.4'
 
-  s.date            = '2012-11-28'
+  s.date            = '2012-11-29'
   s.summary         = "Basecamp Next API 'wrapper' for Ruby."
   s.description     = "Commonly needed Basecamp Next functionality with a friendly interface."
   s.authors         = ["Mark Stanislav"]
